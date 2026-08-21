@@ -8,8 +8,8 @@
 Math
 
 ### 🚀 Performance
-- **Runtime:** 43 ms
-- **Memory:** 19.3 MB
+- **Runtime:** 45 ms
+- **Memory:** 19.2 MB
 
 ---
 
